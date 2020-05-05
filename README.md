@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Step by step to install the dependencies:
+
+run the commands:
+
+## `yarn install`
+
+## `yarn global add json-server`
+
 ### run json server
 
 json-server server.json -p 3333
