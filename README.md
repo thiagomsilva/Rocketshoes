@@ -12,7 +12,7 @@ run the commands:
 
 ### run json server
 
-json-server server.json -p 3333
+### `json-server server.json -p 3333`
 
 ## Available Scripts
 
