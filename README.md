@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 run the commands:
 
-## `yarn install`
+### `yarn install`
 
-## `yarn global add json-server`
+### `yarn global add json-server`
 
 ### run json server
 
