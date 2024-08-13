@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Address in production - https://rocketshoes.vercel.app
+Production URL - https://rocketshoes.vercel.app
 
 ## Step by step to install the dependencies:
 
